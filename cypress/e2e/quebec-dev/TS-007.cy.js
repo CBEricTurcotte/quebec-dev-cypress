@@ -1,4 +1,4 @@
-describe("TS 007 Quebec dev Home page", () => {
+describe("TS 007 Validate Quebec dev Home page", () => {
   beforeEach(() => {
     cy.visit("/");
   });
