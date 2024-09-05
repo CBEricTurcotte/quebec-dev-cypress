@@ -7,5 +7,6 @@ module.exports = defineConfig({
       // Implement node event listeners here
     },
     watchForFileChanges: false, // Prevents auto-saving (auto-reloading) on file change
+    chromeWebSecurity: false,
   },
 });
